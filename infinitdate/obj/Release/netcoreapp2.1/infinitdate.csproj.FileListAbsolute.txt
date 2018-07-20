@@ -1,0 +1,11 @@
+/home/lucasmaciel/Documents/infinitdate/bin/Release/netcoreapp2.1/infinitdate.deps.json
+/home/lucasmaciel/Documents/infinitdate/bin/Release/netcoreapp2.1/infinitdate.runtimeconfig.json
+/home/lucasmaciel/Documents/infinitdate/bin/Release/netcoreapp2.1/infinitdate.runtimeconfig.dev.json
+/home/lucasmaciel/Documents/infinitdate/bin/Release/netcoreapp2.1/infinitdate.dll
+/home/lucasmaciel/Documents/infinitdate/bin/Release/netcoreapp2.1/infinitdate.pdb
+/home/lucasmaciel/Documents/infinitdate/obj/Release/netcoreapp2.1/infinitdate.csprojAssemblyReference.cache
+/home/lucasmaciel/Documents/infinitdate/obj/Release/netcoreapp2.1/infinitdate.csproj.CoreCompileInputs.cache
+/home/lucasmaciel/Documents/infinitdate/obj/Release/netcoreapp2.1/infinitdate.AssemblyInfoInputs.cache
+/home/lucasmaciel/Documents/infinitdate/obj/Release/netcoreapp2.1/infinitdate.AssemblyInfo.cs
+/home/lucasmaciel/Documents/infinitdate/obj/Release/netcoreapp2.1/infinitdate.dll
+/home/lucasmaciel/Documents/infinitdate/obj/Release/netcoreapp2.1/infinitdate.pdb

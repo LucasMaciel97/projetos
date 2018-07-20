@@ -1,0 +1,36 @@
+============= Criar uma imagem ==============
+
+1 - Criar(dotnet new console) o sistema e rodar buildar em Release (dotnet publish -c Release)
+2 - Para saber se a dll esta rodando, é so ir na pasta que gerou o release e rodar o camando "dotnet nomeGerado.dll"
+3 - Criar o arquivo Dockerfile e buildar o mesmo (sudo docker build -t nomeimagem .)
+4 - Rodar a imagem criada (docker run NomeImagem)
+
+=============================
+
+
+Entrar em um container e executar ações:
+docker exec -it "id/nome container" bash
+
+Apenas listar o container:
+docker exec "id/nome container" ls
+
+Criar um container em modo foreground com nome especifico:
+docker run --name "Nome do container" imagem
+
+Criar um container em modo background com nome especific (web app)
+docker run -d -p(porta) 80 --name "nome container" imagem
+
+listar containers:
+docker ps
+
+listar containers off:
+docker ps -a
+
+para fazer 2 container se comunicar(console app e web api) devemos trocar a porta que gera para nos para a porta 80, porque é gerado uma porta diferente das que o container consegue se comunicar, por fim, usamos o --link para demonstrar oque se linka a oque utilizando a pota padrão(80)
+docker run --link "img api que vai ser receber o link no meu caso a web api" "imagem do console app que vai reaizar a requisição"
+
+Data e resultado da api (img talkappdate)
+docker run --name talkappdate --link test-webapp-inmemory talkappdate
+
+
+

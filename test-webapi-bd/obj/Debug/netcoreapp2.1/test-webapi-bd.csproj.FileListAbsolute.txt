@@ -1,0 +1,14 @@
+/home/lucasmaciel/Documents/test-webapi-bd/bin/Debug/netcoreapp2.1/test-webapi-bd.deps.json
+/home/lucasmaciel/Documents/test-webapi-bd/bin/Debug/netcoreapp2.1/test-webapi-bd.runtimeconfig.json
+/home/lucasmaciel/Documents/test-webapi-bd/bin/Debug/netcoreapp2.1/test-webapi-bd.runtimeconfig.dev.json
+/home/lucasmaciel/Documents/test-webapi-bd/bin/Debug/netcoreapp2.1/test-webapi-bd.dll
+/home/lucasmaciel/Documents/test-webapi-bd/bin/Debug/netcoreapp2.1/test-webapi-bd.pdb
+/home/lucasmaciel/Documents/test-webapi-bd/obj/Debug/netcoreapp2.1/test-webapi-bd.csprojAssemblyReference.cache
+/home/lucasmaciel/Documents/test-webapi-bd/obj/Debug/netcoreapp2.1/test-webapi-bd.csproj.CoreCompileInputs.cache
+/home/lucasmaciel/Documents/test-webapi-bd/obj/Debug/netcoreapp2.1/test-webapi-bd.RazorAssemblyInfo.cache
+/home/lucasmaciel/Documents/test-webapi-bd/obj/Debug/netcoreapp2.1/test-webapi-bd.RazorAssemblyInfo.cs
+/home/lucasmaciel/Documents/test-webapi-bd/obj/Debug/netcoreapp2.1/test-webapi-bd.AssemblyInfoInputs.cache
+/home/lucasmaciel/Documents/test-webapi-bd/obj/Debug/netcoreapp2.1/test-webapi-bd.AssemblyInfo.cs
+/home/lucasmaciel/Documents/test-webapi-bd/obj/Debug/netcoreapp2.1/test-webapi-bd.RazorTargetAssemblyInfo.cache
+/home/lucasmaciel/Documents/test-webapi-bd/obj/Debug/netcoreapp2.1/test-webapi-bd.dll
+/home/lucasmaciel/Documents/test-webapi-bd/obj/Debug/netcoreapp2.1/test-webapi-bd.pdb

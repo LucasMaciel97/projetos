@@ -13,7 +13,7 @@ namespace infinitdate
             while(true){
                 var date = DateTime.Now;
                 
-                var client = new RestClient("http://test-webapp-inmemory/");
+                var client = new RestClient("http://test-webapi-bd/");
                 var request = new RestRequest("api/produto", Method.GET);
                 
                 IRestResponse response = client.Execute(request);
